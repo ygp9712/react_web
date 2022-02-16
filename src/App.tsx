@@ -10,7 +10,7 @@ function App() {
         <Layout.Header>
           <img src={logo} />
           <Typography.Title level={3}>React旅游网</Typography.Title>
-          <Input.Search placeholder='请输入旅游目的地、主题或关键字' />
+          <Input.Search />
         </Layout.Header>
       </div>
     </div>
